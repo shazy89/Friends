@@ -1,0 +1,6 @@
+[submodule "friends-api"]
+	path = friends-api
+	url = git@github.com:shazy89/friends-api.git
+[submodule "friends-client"]
+	path = friends-client
+	url = git@github.com:shazy89/friends-client.git
